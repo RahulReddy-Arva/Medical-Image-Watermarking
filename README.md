@@ -1,0 +1,2 @@
+# Medical-Image-Watermarking
+For diagnosis of any disease medical image plays a vital role. So when we transfer them over the network from one place to another place integrity should be maintained. This application embeds the patient details in the image (watermarking) and integrity algorithm is applied at the sender side and at the receiver side it checks whether image is tampered or not and separates image and patient data and shown to the receiver if image is not tampered. If image is tampered it shows image is tampered.
